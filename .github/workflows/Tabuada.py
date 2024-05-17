@@ -7,8 +7,7 @@ while  tabuada <= max_tabu:
 
     numero = 1
     while numero <= max_numeros:
-        produto = tabuada * numero
-        print(f"{tabuada} * {numero} = {produto}")
+        print(f"{tabuada} * {numero} = {tabuada*numero}")
         numero += 1 
     tabuada += 1
     print()
