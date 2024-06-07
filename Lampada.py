@@ -8,4 +8,3 @@ class Lampada:        #definindo a classe Lampada
 lampada = Lampada()   #variavel lampada recebe a Classe Lampada 
 print(lampada.alterar()) 
 print(lampada.alterar())
-
